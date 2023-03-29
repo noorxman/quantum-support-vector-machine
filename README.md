@@ -1,2 +1,2 @@
 # Quantum Support Vector Machines
-The paper with its accompanying jupter notebook explore kernel based machine learning methods for quantum computing such as Quantum Support Vector Machines (QSVM). 
+The paper with its accompanying jupter notebook provide an empirical comparison of kernel driven algorithms and their quantum counterparts: classical support vector machines (SVM), quantum support vector machines (QSVM) and quantum support vector classifiers (QSVC). 
